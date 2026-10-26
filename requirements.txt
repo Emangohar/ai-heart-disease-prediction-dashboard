@@ -1,0 +1,16 @@
+# AI Heart Disease Prediction Dashboard - Dependencies
+# Python 3.8+ recommended
+
+# Data processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+
+# Web application
+streamlit>=1.28.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
